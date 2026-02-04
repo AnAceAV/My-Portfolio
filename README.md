@@ -4,8 +4,8 @@ This is a fully responsive personal portfolio website, responsive for all device
 
 ## Demo
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+![Portfolio Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![Portfolio Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
 ## Prerequisites
 
@@ -15,7 +15,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installing vCard
 
-To install **vCard**, follow these steps:
+To install **Personal Portfolio**, follow these steps:
 
 Linux and macOS:
 
